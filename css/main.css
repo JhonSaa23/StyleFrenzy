@@ -184,6 +184,7 @@ main {
 .producto-imagen {
     max-width: 100%;
     border-radius: .5rem;
+    background-size: cover;
 }
 
 .producto-detalles {

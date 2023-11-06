@@ -1,5 +1,132 @@
 [
     {
+        "id": "Collar01",
+        "titulo": "Collar01",
+        "imagen": "./img/collares/Collar1.1.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Collar02",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/collares/Collar1.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Collar03",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/collares/Collar2.1.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Collar04",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/collares/Collar2.jpg",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras01",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera1.1.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras02",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera1.2.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras03",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera1.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras04",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera2.1.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras05",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera2.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras06",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera3.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras07",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera4.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pulceras08",
+        "titulo": "Abrigo 01",
+        "imagen": "./img/pulceras/Pulsera5.1.jpg",
+        "categoria": {
+            "nombre": "Pulceras",
+            "id": "pulceras"
+        },
+        "precio": 1000
+    },
+    
+    
+
+
+
+
+
+    {
         "id": "abrigo-01",
         "titulo": "Abrigo 01",
         "imagen": "./img/abrigos/01.jpg",
