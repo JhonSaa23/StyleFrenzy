@@ -54,11 +54,32 @@
             <div class="contenedor-carrito">
                 <p id="carrito-vacio" class="carrito-vacio">Tu carrito está vacío. <i class="bi bi-emoji-frown"></i></p>
 
+                <form id="formulario-cliente">
+                    <label for="nombres">Nombres:</label>
+                    <input type="text" id="nombres" name="nombres" required>
+                
+                    <label for="apellidos">Apellidos:</label>
+                    <input type="text" id="apellidos" name="apellidos" required>
+                
+                    <label for="direccion">Dirección:</label>
+                    <input type="text" id="direccion" name="direccion" required>
+                
+                    <label for="referencia">Referencia:</label>
+                    <input type="text" id="referencia" name="referencia">
+                
+                    <label for="telefono">Número de celular:</label>
+                    <input type="text" id="telefono" name="telefono" required>
+                </form>
+                <button id="guardar-datos">Guardar Datos</button>
+
+
                 <div id="carrito-productos" class="carrito-productos disabled">
                     <!-- Esto se va a completar con el JS -->
                 </div>
 
                 <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <!-- Agregar este formulario dentro del div con id="carrito-acciones" -->
+
                     <div class="carrito-acciones-izquierda">
                         <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
                     </div>
@@ -67,7 +88,9 @@
                             <p>Total:</p>
                             <p id="total">S/. 3000</p>
                         </div>
-                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora
+                            <img id="icon-whatsapp" class="image-icon-whatsapp" src="img/whatsapp.webp" alt="" width="70">
+                        </button>
                     </div>
                 </div>
 
